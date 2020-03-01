@@ -2,13 +2,13 @@
 
 # Upute za pokretanje aplikacije
 
-1.Kloniraj repozitorij
-2.Kreiraj virtualnu okolinu
-3.Aktiviraj virtualnu okolinu sa naredbom venv\Scripts\activate
-4.Instaliraj sve potrebne stvari sa requirements.txt datoteke naredbom pip install -r requirements.txt
-5.Postavi FLASK_APP=app.py
-6.Pokreni aplikaciju naredbom flask run
-7.U browser upisi:http://127.0.0.1:5000/
+1.Kloniraj repozitorij <br>
+2.Kreiraj virtualnu okolinu <br>
+3.Aktiviraj virtualnu okolinu sa naredbom venv\Scripts\activate <br>
+4.Instaliraj sve potrebne stvari sa requirements.txt datoteke naredbom pip install -r requirements.txt <br>
+5.Postavi FLASK_APP=app.py <br>
+6.Pokreni aplikaciju naredbom flask run <br>
+7.U browser upisi:http://127.0.0.1:5000/ <br>
 
 # O zavrsnom projektu
 
