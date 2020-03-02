@@ -10,6 +10,6 @@
 6.Pokreni aplikaciju naredbom flask run <br>
 7.U browser upiši:http://127.0.0.1:5000/ <br>
 
-<h1>O završnom projektu<\h1>
+# O završnom projektu
 
-<p>Korisnik se moze prijavit na web stranicu preko gumba pretplati se, svi se podaci spremaju u bazu.Korisnik se pretplacuje tako sto ispunjava newsletter sa svojim imenom i e-mailom.<\p>
+Korisnik se moze prijavit na web stranicu preko gumba pretplati se, svi se podaci spremaju u bazu.Korisnik se pretplacuje tako sto ispunjava newsletter sa svojim imenom i e-mailom.
