@@ -1,6 +1,6 @@
 # Zavrsni_Projekt_Pzw1
 
-# Upute za pokretanje aplikacije
+# Upute za pokretanje aplikacije 1 #
 
 1.Kloniraj repozitorij <br>
 2.Kreiraj virtualnu okolinu <br>
@@ -10,6 +10,6 @@
 6.Pokreni aplikaciju naredbom flask run <br>
 7.U browser upiši:http://127.0.0.1:5000/ <br>
 
-# O završnom projektu
+## O završnom projektu 2 ##
 
 Korisnik se može prijavit na web stranicu preko gumba pretplati se, svi se podaci spremaju u bazu.Korisnik se pretplaćuje tako što ispunjava newsletter sa svojim imenom i e-mailom.
