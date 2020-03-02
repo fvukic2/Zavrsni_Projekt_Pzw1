@@ -12,4 +12,4 @@
 
 # O završnom projektu
 
-Korisnik se moze prijavit na web stranicu preko gumba pretplati se, svi se podaci spremaju u bazu.Korisnik se pretplacuje tako sto ispunjava newsletter sa svojim imenom i e-mailom.
+Korisnik se može prijavit na web stranicu preko gumba pretplati se, svi se podaci spremaju u bazu.Korisnik se pretplaćuje tako što ispunjava newsletter sa svojim imenom i e-mailom.
